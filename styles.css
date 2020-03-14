@@ -7,8 +7,8 @@
 }
 
 .navbar {
-  position: fixed;
-  top: 0;
+  position: fixed !important;
+  top: 0 !important;
 }
 
 .top-button-margins {
