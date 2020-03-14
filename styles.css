@@ -6,6 +6,11 @@
   border-radius: 10px;
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+}
+
 .top-button-margins {
   margin-bottom: 200px !important;
 }
