@@ -97,7 +97,7 @@ main {
 
 footer {
   background-color: var(--first-color);
-  min-height: 8em;
+  min-height: 4em;
 }
 
 .social {
