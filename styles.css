@@ -27,7 +27,7 @@ header {
 }
 
 main {
-  background-color: var(--third-color);
+  background-color: var(--fourth-color);
   min-height: 70vh;
 }
 
