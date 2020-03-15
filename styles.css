@@ -1,3 +1,10 @@
+:root {
+  --first-color: #0b0b0d;
+  --second-color: #474a56;
+  --third-color: #929aab;
+  --fourth-color: #d3d5fd;
+}
+
 header {
   background: -webkit-gradient(
       linear,
@@ -17,4 +24,9 @@ header {
 }
 .name {
   font-size: 4em;
+}
+
+main {
+  background-color: var(--third-color);
+  min-height: 70vh;
 }
